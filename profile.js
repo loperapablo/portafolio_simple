@@ -74,7 +74,7 @@ export const projects = [
 	{
 		name: 'GitHub API - React',
 		description:
-			'Interfaz simple de búsqueda de usuarios de GitHub, y su respectivo manejo de la información.',
+			'Interfaz simple de búsqueda de usuarios de GitHub, y su respectivo manejo de la información. ',
 		image: 'github.jpg',
 		enlace:
 			'https://github.com/loperapablo/react-material-ui',
