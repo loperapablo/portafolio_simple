@@ -25,6 +25,7 @@ const Home = () => {
 						<a
 							className='btn btn-warning'
 							href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=pablolope8@gmail.com'
+							target="_blank"
 						>
 							Contáctame
 						</a>
