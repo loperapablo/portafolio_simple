@@ -1,0 +1,24 @@
+.overflow {
+    height: 50%;
+    overflow: hidden;
+    
+}
+
+.overflow .card-img-top {
+    transform: scale(1);
+    transition: all 0.2s ease-in-out;
+    min-height: 210px;
+        object-fit: cover;
+}
+
+.overflow .card-img-top:hover {
+    transform: scale(1.8);
+}
+
+.btn-contacto {
+    display: flex;
+        align-items: flex-start;
+        justify-content: flex-end;
+        
+    
+}
