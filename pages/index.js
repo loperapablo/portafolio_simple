@@ -24,7 +24,7 @@ const Home = () => {
 					<div className='col-md-4 btn-contacto'>
 						<a
 							className='btn btn-warning'
-							href='mailto:pablolope8@gmail.com'
+							href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=pablolope8@gmail.com'
 						>
 							Contáctame
 						</a>
