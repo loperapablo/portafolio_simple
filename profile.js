@@ -67,7 +67,7 @@ export const projects = [
 		name: 'Plantpedia - Next.js',
 		description:
 			'Proyecto creado en Next.js, se conecta a API de Contentful para traer más de 400 artículos.',
-		image: 'plantpedia.jpg',
+		image: 'plantpedia.JPG',
 		enlace:
 			'https://plantpedia-nextjs-jamstack.vercel.app/es',
 	},
@@ -83,7 +83,7 @@ export const projects = [
 		name: 'Admin Dashboard - React (En proceso)',
 		description:
 			'Dashboard de administración: Manejo de contactos, facturas, equipos y agenda. Visualización de estadísticas avanzadas.',
-		image: 'react-admin.jpg',
+		image: 'react-admin.JPG',
 		enlace:
 			'https://github.com/loperapablo/react-admin',
 	},
