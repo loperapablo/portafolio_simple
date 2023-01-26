@@ -21,15 +21,7 @@ const Home = () => {
 							</h5>
 						</div>
 					</div>
-					<div className='col-md-4 btn-contacto'>
-						<a
-							className='btn btn-warning'
-							href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=pablolope8@gmail.com'
-							target="_blank"
-						>
-							Contáctame
-						</a>
-					</div>
+					
 				</div>
 				<div className='row py-2 '>
 					<div className='col-md-4'>
